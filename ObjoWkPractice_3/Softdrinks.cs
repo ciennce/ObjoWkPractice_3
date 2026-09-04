@@ -2,15 +2,15 @@
 {
     class Softdrinks
     {
-        public int Price { get; set; }
-        public int Volume { get; set; }
-        public string Name { get; set; }
+        public int Price { get;}
+        public int Volume { get;}
+        public string Name { get;}
 
-        public Softdrinks(int Price, int Volume, string Name)
+        public Softdrinks(int price, int volume, string name)
         {
-            this.Price = Price;
-            this.Volume = Volume;
-            this.Name = Name;
+            Price = price;
+            Volume = volume;
+            Name = name;
         }
     }
 }
