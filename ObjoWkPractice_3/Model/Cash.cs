@@ -1,4 +1,4 @@
-﻿namespace ObjoWkPractice_3
+﻿namespace ObjoWkPractice_3.Model
 {
     class Cash
     {

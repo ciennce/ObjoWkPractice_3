@@ -1,6 +1,7 @@
-﻿using static ObjoWkPractice_3.Vendingmachine;
+﻿using ObjoWkPractice_3.Model;
+using static ObjoWkPractice_3.Model.Vendingmachine;
 
-namespace ObjoWkPractice_3
+namespace ObjoWkPractice_3.UI
 {
     class Program
     {
